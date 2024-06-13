@@ -2,6 +2,8 @@
 
 This repository contains a Python script that resets network settings and refreshes network interfaces on macOS systems. It can be useful in situations where network interfaces are not properly detected.
 
+
+There is an executable plus a script file in the dist folder if you do not have python3 installed on the machine.
 ### Usage
 
 1. **Prerequisites**:
